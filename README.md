@@ -6,3 +6,6 @@
 - 📫 How to reach me: DM me on twitter.
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I've been coding for around 3-4 years.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
