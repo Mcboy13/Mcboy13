@@ -7,4 +7,5 @@
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I've been coding for around 3-4 years.
 
+### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimolas&show_icons=true&theme=dark)
